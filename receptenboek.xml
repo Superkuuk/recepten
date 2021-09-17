@@ -1,0 +1,21 @@
+<recept>
+  <id>0</id>
+  <gang>Hoofdgerecht</gang>
+  <titel>Blote Billetjes op het gras</titel>
+  <sterren>4.5</sterren>
+  <tijd>20 minuten</tijd>
+  <moeilijkheid>makkelijk</moeilijkheid>
+  <benodigd>koekepan</benodigd>
+  <ingredienten>
+    <i>gehakt</i>
+    <i>4 kippen</i>
+    <i>2 ezels</i>
+    <i>0.5 kameel</i>
+  </ingredienten>
+  <stappen>
+    <i>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nunc ligula, blandit et dapibus vitae, convallis at justo. Nam commodo pellentesque turpis et rhoncus. Ut ac metus eu dui ornare tincidunt vitae in nulla.</i>
+    <i>Aliquam gravida, felis sed pharetra luctus, ante erat aliquet quam. Quis porttitor urna mauris eu elit. Fusce nulla urna, hendrerit quis mollis et, aliquet vel sapien.</i>
+    <i>Curabitur lacinia ex quis congue luctus. Proin vehicula pharetra lorem, eget ultrices leo fermentum suscipit. Donec porttitor justo sed lobortis euismod. Etiam finibus a dui non imperdiet.</i>
+    <i>Praesent sed luctus mauris, vitae iaculis sem. Aliquam vitae fermentum tellus, quis fringilla magna. Vestibulum faucibus orci in laoreet laoreet.</i>
+  </stappen>
+</recept>
